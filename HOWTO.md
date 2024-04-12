@@ -28,7 +28,7 @@ The following steps you usually only need to do once:
    An example repository with a README etc. can be found here:
    <https://beta.source.coop/fiboa/de-nrw/>
 
-## Everytime you update the dataset
+## Each time you update the dataset
 
 10. Go to the parent folder of the folder that contains your data (e.g. `data`) in CLI
 11. Run the converter, e.g. `xx_yy`:
