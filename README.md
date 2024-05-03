@@ -7,13 +7,13 @@ This repository provides you with all information about existing fiboa datasets.
 
 | Title | License | Provider |
 | ----- | ------- | -------- |
-| [Austria](https://data.source.coop/fiboa/austria/stac/collection.json) | CC-BY-4.0 | Agrarmarkt Austria |
-| [Germany, Berlin / Brandenburg](https://data.source.coop/fiboa/de-bb/stac/collection.json) | dl-de/by-2-0 | Land Brandenburg |
-| [Germany, Lower Saxony](https://data.source.coop/fiboa/de-nds/stac/collection.json) | dl-de/by-2-0 | Land Niedersachsen |
-| [Germany, North Rhine-Westphalia](https://data.source.coop/fiboa/de-nrw/stac/collection.json) | dl-de/by-2-0 | Land Nordrhein-Westfalen / Open.NRW |
-| [Germany, Schleswig-Holstein](https://data.source.coop/fiboa/de-sh/stac/collection.json) | dl-de/zero-2-0 | Land Schleswig-Holstein |
+| [Austria](https://beta.source.coop/repositories/fiboa/austria/description/) | CC-BY-4.0 | Agrarmarkt Austria |
+| [Germany, Berlin / Brandenburg](https://beta.source.coop/repositories/fiboa/de-bb/description/) | dl-de/by-2-0 | Land Brandenburg |
+| [Germany, Lower Saxony](https://beta.source.coop/repositories/fiboa/de-nds/description/) | dl-de/by-2-0 | Land Niedersachsen |
+| [Germany, North Rhine-Westphalia](https://beta.source.coop/repositories/fiboa/de-nrw/description/) | dl-de/by-2-0 | Land Nordrhein-Westfalen / Open.NRW |
+| [Germany, Schleswig-Holstein](https://beta.source.coop/repositories/fiboa/de-sh/description/) | dl-de/zero-2-0 | Land Schleswig-Holstein |
 
-* **Last updated:** May 03 2024, 21:44 
+* **Last updated:** May 03 2024, 21:50 
 * **Count:** 5
 
 ## Add your dataset
