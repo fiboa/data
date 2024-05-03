@@ -13,7 +13,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, North Rhine-Westphalia](https://data.source.coop/fiboa/de-nrw/stac/collection.json) | dl-de/by-2-0 | Land Nordrhein-Westfalen / Open.NRW |
 | [Germany, Schleswig-Holstein](https://data.source.coop/fiboa/de-sh/stac/collection.json) | dl-de/zero-2-0 | Land Schleswig-Holstein |
 
-* **Last updated:** May 03 2024, 21:43 
+* **Last updated:** May 03 2024, 21:44 
 * **Count:** 5
 
 ## Add your dataset
