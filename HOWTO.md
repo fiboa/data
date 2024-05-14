@@ -50,3 +50,11 @@ The following steps you usually only need to do once:
     `$env:AWS_DEFAULT_REGION="us-west-2"` instead of `export AWS_DEFAULT_REGION=us-west-2`
 19. Upload to AWS:
     `aws s3 sync data s3://us-west-2.opendata.source.coop/fiboa/xx-yy/`
+
+If you've created and published a STAC Collection for your dataset, make sure to add it to the
+STAC catalog that combines all datasets into a single STAC catalog
+It will also publish your dataset to the
+[fiboa data overview page](https://github.com/fiboa/data/blob/main/README.md).
+Create a PR to add your STAC Collection as child link to the following file:
+<https://github.com/fiboa/fiboa.github.io/blob/main/stac/catalog.json>
+See also the [README](README.md#add-your-dataset) for an alternative.
