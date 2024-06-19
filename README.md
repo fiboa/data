@@ -8,14 +8,16 @@ This repository provides you with all information about existing fiboa datasets.
 | Title | License | Provider |
 | ----- | ------- | -------- |
 | [Austria](https://beta.source.coop/repositories/fiboa/austria/description/) | CC-BY-4.0 | Agrarmarkt Austria |
+| [BRP Crop Field Boundaries for The Netherlands (CAP-based)](https://beta.source.coop/repositories/fiboa/nl-crop/description/) | CC0-1.0 |  |
+| [Field boundaries for The Netherlands](https://beta.source.coop/repositories/fiboa/ref-nl/description/) | CC0-1.0 |  |
 | [Germany, Berlin / Brandenburg](https://beta.source.coop/repositories/fiboa/de-bb/description/) | dl-de/by-2-0 | Land Brandenburg |
 | [Germany, Lower Saxony](https://beta.source.coop/repositories/fiboa/de-nds/description/) | dl-de/by-2-0 | Land Niedersachsen |
 | [Germany, North Rhine-Westphalia](https://beta.source.coop/repositories/fiboa/de-nrw/description/) | dl-de/by-2-0 | Land Nordrhein-Westfalen / Open.NRW |
 | [Germany, Schleswig-Holstein](https://beta.source.coop/repositories/fiboa/de-sh/description/) | dl-de/zero-2-0 | Land Schleswig-Holstein |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Jun 18 2024, 01:09 
-* **Count:** 6
+* **Last updated:** Jun 19 2024, 01:09 
+* **Count:** 8
 
 ## Add your dataset
 
