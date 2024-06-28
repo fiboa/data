@@ -18,37 +18,43 @@ The following steps you usually only need to do once:
 
 5. Create a converter using fiboa CLI converters, see the
    [template](https://github.com/fiboa/cli/blob/main/fiboa_cli/datasets/template.py).
-   Create a PR for it.
-6. Register at Source Cooperative and email `hello@source.coop` for permission to publish in the fiboa organization. 
-7. [Create a new repository](https://beta.source.coop/repositories/new/) in the fiboa organization, e.g. `@fiboa/xx-yy`.
+6. If the dataset is available under an open license, we also want to create a test assuming the converter is named `xx_yy`:
+   1. Install development dependencies: `pip install -r /path/to/requirements.txt`
+   2. Create a new folder for the test data: `mkdir tests/data-files/convert/xx_yy`
+   3. Create a subset of the dataset: `ogr2ogr tests/data-files/convert/xx_yy/input_file.gpkg -limit 100 /path/to/input_file.gpkg`
+   4. Update the test file `tests/text_converters.py` to include your converter
+   5. Run the tests: `pytest`. Iterate on 4 and 5 until the tests succeed.
+7. Register at Source Cooperative and email `hello@source.coop` for permission to publish in the fiboa organization. 
+8. [Create a new repository](https://beta.source.coop/repositories/new/) in the fiboa organization, e.g. `@fiboa/xx-yy`.
    You'll find it at `https://beta.source.coop/fiboa/xx-yy/`
-8. Create a new folder for your data, e.g. data
+9. Create a new folder for your data, e.g. data
    `mkdir data`
-9. Create a README file at `data/README.md` and a license file at `data/LICENSE.txt`
-   An example repository with a README etc. can be found here:
-   <https://beta.source.coop/fiboa/de-nrw/>
+10. Create a README file at `data/README.md` and a license file at `data/LICENSE.txt`
+    An example repository with a README etc. can be found here:
+    <https://beta.source.coop/fiboa/de-nrw/>
 
 ## Each time you update the dataset
 
-10. Go to the parent folder of the folder that contains your data (e.g. `data`) in CLI
-11. Run the converter, e.g. `xx_yy`:
+11. Go to the parent folder of the folder that contains your data (e.g. `data`) in CLI
+12. Run the converter, e.g. `xx_yy`:
     `fiboa convert xx_yy -o data/xx-yy.parquet -h https://beta.source.coop/fiboa/xx-yy/ --collection`
-12. Validate the result, e.g. `fiboa validate data/xx-yy.parquet --data`
-13. Move the collection.json into a stac folder:
+    Make sure there are no errors (usually in red) or warnings (usually in yellow)
+13. Validate the result, e.g. `fiboa validate data/xx-yy.parquet --data` and run the tests `pytest`
+14. Move the collection.json into a stac folder:
     `mkdir data/stac` and `mv data/collection.json data/stac`
-14. Update the README file at `data/README.md`
-15. Create PMTiles file:
+15. Update the README file at `data/README.md`
+16. Create PMTiles file:
     `ogr2ogr -t_srs EPSG:4326 geo.json data/xx-yy.parquet`
     and
     `tippecanoe -zg --projection=EPSG:4326 -o data/xx-yy.pmtiles -l xx-yy geo.json --drop-densest-as-needed`
-16. Edit the STAC Collection, update the paths, and everything else that you want to customize.
+17. Edit the STAC Collection, update the paths, and everything else that you want to customize.
     Also don't forget to add a link to the PMTiles file using the
     [corresponding STAC extension](https://github.com/stac-extensions/web-map-links?tab=readme-ov-file#pmtiles).
-17. Create new credentials for S3, at: `https://beta.source.coop/repositories/fiboa/xx-yy/download/`
-18. Copy the credentials.
+18. Create new credentials for S3, at: `https://beta.source.coop/repositories/fiboa/xx-yy/download/`
+19. Copy the credentials.
     Windows users may need to change the commands slightly. Use e.g.
     `$env:AWS_DEFAULT_REGION="us-west-2"` instead of `export AWS_DEFAULT_REGION=us-west-2`
-19. Upload to AWS:
+20. Upload to AWS:
     `aws s3 sync data s3://us-west-2.opendata.source.coop/fiboa/xx-yy/`
 
 If you've created and published a STAC Collection for your dataset, make sure to add it to the
