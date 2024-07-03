@@ -22,7 +22,7 @@ The following steps you usually only need to do once:
    1. Install development dependencies: `pip install -r /path/to/requirements.txt`
    2. Create a new folder for the test data: `mkdir tests/data-files/convert/xx_yy`
    3. Create a subset of the dataset: `ogr2ogr tests/data-files/convert/xx_yy/input_file.gpkg -limit 100 /path/to/input_file.gpkg`
-   4. Update the test file `tests/text_converters.py` to include your converter
+   4. Update the test file `tests/test_convert.py` to include your converter
    5. Run the tests: `pytest`. Iterate on 4 and 5 until the tests succeed.
 7. Register at Source Cooperative and email `hello@source.coop` for permission to publish in the fiboa organization. 
 8. [Create a new repository](https://beta.source.coop/repositories/new/) in the fiboa organization, e.g. `@fiboa/xx-yy`.
