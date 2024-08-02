@@ -16,7 +16,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, Schleswig-Holstein](https://beta.source.coop/repositories/fiboa/de-sh/description/) | dl-de/zero-2-0 | Land Schleswig-Holstein |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Aug 01 2024, 01:17 
+* **Last updated:** Aug 02 2024, 01:11 
 * **Count:** 8
 
 ## Add your dataset
