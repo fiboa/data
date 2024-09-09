@@ -9,6 +9,7 @@ This repository provides you with all information about existing fiboa datasets.
 | ----- | ------- | -------- |
 | [Austria](https://beta.source.coop/repositories/fiboa/austria/description/) | CC-BY-4.0 | Agrarmarkt Austria |
 | [BRP Crop Field Boundaries for The Netherlands (CAP-based)](https://beta.source.coop/repositories/fiboa/nl-crop/description/) | CC0-1.0 |  |
+| [Denmark Crop Fields (Marker)](https://beta.source.coop/repositories/fiboa/denmark/description/) | CC-0 |  |
 | [Field boundaries for Cambodia and Vietnam (AI4SmallFarms)](https://beta.source.coop/repositories/fiboa/ai4sf/description/) | CC-BY-4.0 |  |
 | [Field boundaries for Flanders, Belgium](https://beta.source.coop/repositories/fiboa/be-vlg/description/) | Licentie modellicentie-gratis-hergebruik/v1.0 |  |
 | [Field boundaries for France from Eurocrops (2018)](https://beta.source.coop/repositories/fiboa/france-ec/description/) | CC-BY-SA-4.0 | Institut National de l'Information Géographique et Forestière |
@@ -25,8 +26,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, Thuringia](https://beta.source.coop/repositories/fiboa/de-th/description/) | dl-de/by-2-0 | Thüringer Landesamt für Landwirtschaft und Ländlichen Raum |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Sep 08 2024, 01:22 
-* **Count:** 17
+* **Last updated:** Sep 09 2024, 01:18 
+* **Count:** 18
 
 ## Add your dataset
 
