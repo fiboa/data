@@ -14,7 +14,10 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Flanders, Belgium](https://beta.source.coop/repositories/fiboa/be-vlg/description/) | Licentie modellicentie-gratis-hergebruik/v1.0 |  |
 | [Field boundaries for France from Eurocrops (2018)](https://beta.source.coop/repositories/fiboa/france-ec/description/) | CC-BY-SA-4.0 | Institut National de l'Information Géographique et Forestière |
 | [Field boundaries for Latvia from EuroCrops (2021)](https://beta.source.coop/repositories/fiboa/ec-lv/description/) | CC-BY-4.0 | Lauku atbalsta dienests |
+| [Field boundaries for Mecklenburg-Western Pomerania, Germany](https://beta.source.coop/repositories/fiboa/de-mv/description/) | No restrictions apply |  |
 | [Field boundaries for Portugal](https://beta.source.coop/repositories/fiboa/portugal/description/) | No conditions apply |  |
+| [Field boundaries for Saarland, Germany](https://beta.source.coop/repositories/fiboa/de-sl/description/) | cc-by-4.0 | © GDI-SL 2024 |
+| [Field boundaries for Saxony, Germany](https://beta.source.coop/repositories/fiboa/de-sax/description/) | dl-de/by-2-0 | Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie |
 | [Field boundaries for Slovenia from EuroCrops (2021)](https://beta.source.coop/repositories/fiboa/slovenia-ec/description/) | CC-BY-SA-4.0 | Ministrstvo za kmetijstvo, gozdarstvo in prehrano |
 | [Field boundaries for The Netherlands](https://beta.source.coop/repositories/fiboa/nl-ref/description/) | CC0-1.0 |  |
 | [Field boundaries for the west of Bahia state, Brazil](https://beta.source.coop/repositories/fiboa/br-ba-lem/description/) | CC-BY-4.0 |  |
@@ -26,8 +29,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, Thuringia](https://beta.source.coop/repositories/fiboa/de-th/description/) | dl-de/by-2-0 | Thüringer Landesamt für Landwirtschaft und Ländlichen Raum |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Nov 05 2024, 01:19 
-* **Count:** 18
+* **Last updated:** Nov 06 2024, 01:19 
+* **Count:** 21
 
 ## Add your dataset
 
