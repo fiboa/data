@@ -21,6 +21,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Slovenia from EuroCrops (2021)](https://beta.source.coop/repositories/fiboa/slovenia-ec/description/) | CC-BY-SA-4.0 | Ministrstvo za kmetijstvo, gozdarstvo in prehrano |
 | [Field boundaries for Sweden](https://beta.source.coop/repositories/fiboa/sweden/description/) | CC0-1.0 | Jordbruksverket |
 | [Field boundaries for The Netherlands](https://beta.source.coop/repositories/fiboa/nl-ref/description/) | CC0-1.0 |  |
+| [Field boundaries for ireland](https://beta.source.coop/repositories/fiboa/ireland/description/) | CC-BY-4.0 | Ireland Department of Agriculture, Food and the Marine" |
 | [Field boundaries for the west of Bahia state, Brazil](https://beta.source.coop/repositories/fiboa/br-ba-lem/description/) | CC-BY-4.0 |  |
 | [Finnish Crop Fields (Maatalousmaa)](https://beta.source.coop/repositories/fiboa/finland/description/) | CC-BY-4.0 | Finnish Food Authority |
 | [Germany, Berlin / Brandenburg](https://beta.source.coop/repositories/fiboa/de-bb/description/) | dl-de/by-2-0 | Land Brandenburg |
@@ -30,8 +31,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, Thuringia](https://beta.source.coop/repositories/fiboa/de-th/description/) | dl-de/by-2-0 | Thüringer Landesamt für Landwirtschaft und Ländlichen Raum |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Nov 09 2024, 01:17 
-* **Count:** 22
+* **Last updated:** Nov 10 2024, 01:24 
+* **Count:** 23
 
 ## Add your dataset
 
