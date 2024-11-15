@@ -12,6 +12,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Denmark Crop Fields (Marker)](https://source.coop/repositories/fiboa/denmark/description/) | CC-0 |  |
 | [Field boundaries for Belgium Wallonia](https://source.coop/repositories/fiboa/be-wa/description/) | No conditions apply to access and use |  |
 | [Field boundaries for Cambodia and Vietnam (AI4SmallFarms)](https://source.coop/repositories/fiboa/ai4sf/description/) | CC-BY-4.0 |  |
+| [Field boundaries for Catalonia, Spain](https://source.coop/repositories/fiboa/es-cat/description/) | Open Information Use License - Catalonia |  |
+| [Field boundaries for Croatia](https://source.coop/repositories/fiboa/croatia/description/) | Publicly available data |  |
 | [Field boundaries for Estonia](https://source.coop/repositories/fiboa/estonia-ec/description/) | CC-BY-SA-3.0 | Põllumajanduse Registrite ja Informatsiooni Amet |
 | [Field boundaries for Flanders, Belgium](https://source.coop/repositories/fiboa/be-vlg/description/) | Licentie modellicentie-gratis-hergebruik/v1.0 |  |
 | [Field boundaries for France from Eurocrops (2018)](https://source.coop/repositories/fiboa/france-ec/description/) | CC-BY-SA-4.0 | Institut National de l'Information Géographique et Forestière |
@@ -21,6 +23,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Portugal](https://source.coop/repositories/fiboa/portugal/description/) | No conditions apply |  |
 | [Field boundaries for Saarland, Germany](https://source.coop/repositories/fiboa/de-sl/description/) | cc-by-4.0 | © GDI-SL 2024 |
 | [Field boundaries for Saxony, Germany](https://source.coop/repositories/fiboa/de-sax/description/) | dl-de/by-2-0 | Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie |
+| [Field boundaries for Slovakia](https://source.coop/repositories/fiboa/slovakia/description/) | Publicly available data |  |
 | [Field boundaries for Slovenia](https://source.coop/repositories/fiboa/slovenia/description/) | Publicly available data |  |
 | [Field boundaries for Slovenia from EuroCrops (2021)](https://source.coop/repositories/fiboa/slovenia-ec/description/) | CC-BY-SA-4.0 | Ministrstvo za kmetijstvo, gozdarstvo in prehrano |
 | [Field boundaries for Sweden](https://source.coop/repositories/fiboa/sweden/description/) | CC0-1.0 | Jordbruksverket |
@@ -38,8 +41,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Lacuna labels](https://source.coop/repositories/fiboa/lacunalabels/description/) | Participant license agreement for the NICFI contract |  |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Nov 14 2024, 01:20 
-* **Count:** 30
+* **Last updated:** Nov 15 2024, 01:25 
+* **Count:** 33
 
 ## Add your dataset
 
