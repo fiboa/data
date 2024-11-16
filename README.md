@@ -14,6 +14,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Cambodia and Vietnam (AI4SmallFarms)](https://source.coop/repositories/fiboa/ai4sf/description/) | CC-BY-4.0 |  |
 | [Field boundaries for Catalonia, Spain](https://source.coop/repositories/fiboa/es-cat/description/) | Open Information Use License - Catalonia |  |
 | [Field boundaries for Croatia](https://source.coop/repositories/fiboa/croatia/description/) | Publicly available data |  |
+| [Field boundaries for Czech](https://source.coop/repositories/fiboa/czech/description/) | CC-0 |  |
 | [Field boundaries for Estonia](https://source.coop/repositories/fiboa/estonia-ec/description/) | CC-BY-SA-3.0 | Põllumajanduse Registrite ja Informatsiooni Amet |
 | [Field boundaries for Flanders, Belgium](https://source.coop/repositories/fiboa/be-vlg/description/) | Licentie modellicentie-gratis-hergebruik/v1.0 |  |
 | [Field boundaries for France from Eurocrops (2018)](https://source.coop/repositories/fiboa/france-ec/description/) | CC-BY-SA-4.0 | Institut National de l'Information Géographique et Forestière |
@@ -41,8 +42,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Lacuna labels](https://source.coop/repositories/fiboa/lacunalabels/description/) | Participant license agreement for the NICFI contract |  |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Nov 15 2024, 01:25 
-* **Count:** 33
+* **Last updated:** Nov 16 2024, 01:23 
+* **Count:** 34
 
 ## Add your dataset
 
