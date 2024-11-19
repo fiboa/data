@@ -10,7 +10,7 @@ The following steps you usually only need to do once:
    - If you have trouble installing Python, GDAL, etc., consider using the conda environment.
      Install Anaconda and run the following commands using the env.yml file provided in this repository:
       - `conda env create --file="https://raw.githubusercontent.com/fiboa/data/refs/heads/main/env.yml"`
-      - `conda activate ftw`
+      - `conda activate fiboa`
 2. Clone the [fiboa CLI repository](https://github.com/fiboa/cli):
    `git clone https://github.com/fiboa/cli`
    and `cd cli` to switch into the new folder.
