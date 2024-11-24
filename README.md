@@ -11,6 +11,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [BRP Crop Field Boundaries for The Netherlands (CAP-based)](https://source.coop/repositories/fiboa/nl-crop/description/) | CC0-1.0 |  |
 | [Denmark Crop Fields (Marker)](https://source.coop/repositories/fiboa/denmark/description/) | CC-0 |  |
 | [Field boundaries for Belgium Wallonia](https://source.coop/repositories/fiboa/be-wa/description/) | No conditions apply to access and use |  |
+| [Field boundaries for California Statewide Crop Mapping](https://source.coop/repositories/fiboa/us-ca-scm/description/) | CC-0 |  |
 | [Field boundaries for Cambodia and Vietnam (AI4SmallFarms)](https://source.coop/repositories/fiboa/ai4sf/description/) | CC-BY-4.0 |  |
 | [Field boundaries for Catalonia, Spain](https://source.coop/repositories/fiboa/es-cat/description/) | Open Information Use License - Catalonia |  |
 | [Field boundaries for Croatia](https://source.coop/repositories/fiboa/croatia/description/) | Publicly available data |  |
@@ -42,8 +43,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [Lacuna labels](https://source.coop/repositories/fiboa/lacunalabels/description/) | Participant license agreement for the NICFI contract |  |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 
-* **Last updated:** Nov 23 2024, 01:22 
-* **Count:** 34
+* **Last updated:** Nov 24 2024, 01:37 
+* **Count:** 35
 
 ## Add your dataset
 
