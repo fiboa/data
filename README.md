@@ -19,7 +19,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Estonia](https://source.coop/repositories/fiboa/estonia-ec/description/) | CC-BY-SA-3.0 | Põllumajanduse Registrite ja Informatsiooni Amet |
 | [Field boundaries for Flanders, Belgium](https://source.coop/repositories/fiboa/be-vlg/description/) | Licentie modellicentie-gratis-hergebruik/v1.0 |  |
 | [Field boundaries for France from Eurocrops (2018)](https://source.coop/repositories/fiboa/france-ec/description/) | CC-BY-SA-4.0 | Institut National de l'Information Géographique et Forestière |
-| [Field boundaries for Latvia from EuroCrops (2021)](https://source.coop/repositories/fiboa/ec-lv/description/) | CC-BY-4.0 | Lauku atbalsta dienests |
+| [Field boundaries for Latvia 2024](https://source.coop/repositories/fiboa/latvia/description/) | CC-BY-4.0 | Lauku atbalsta dienests |
 | [Field boundaries for Luxembourg](https://source.coop/repositories/fiboa/luxembourg/description/) | CC-BY-4.0 | Luxembourg ministry of Agriculture |
 | [Field boundaries for Mecklenburg-Western Pomerania, Germany](https://source.coop/repositories/fiboa/de-mv/description/) | No restrictions apply |  |
 | [Field boundaries for Portugal](https://source.coop/repositories/fiboa/portugal/description/) | No conditions apply |  |
@@ -40,12 +40,13 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, North Rhine-Westphalia](https://source.coop/repositories/fiboa/de-nrw/description/) | dl-de/by-2-0 | Land Nordrhein-Westfalen / Open.NRW |
 | [Germany, Schleswig-Holstein](https://source.coop/repositories/fiboa/de-sh/description/) | dl-de/zero-2-0 | Land Schleswig-Holstein |
 | [Germany, Thuringia](https://source.coop/repositories/fiboa/de-th/description/) | dl-de/by-2-0 | Thüringer Landesamt für Landwirtschaft und Ländlichen Raum |
+| [Japan Fude Parcels](https://source.coop/repositories/fiboa/japan/description/) | CC-BY-4.0 | Fude Polygon Data (2021-2024). Japanese Ministry of Agriculture, Forestry and Fisheries. Processed by Pacific Spatial Solutions, Inc |
 | [Lacuna labels](https://source.coop/repositories/fiboa/lacunalabels/description/) | Participant license agreement for the NICFI contract |  |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Dec 04 2024, 01:36 
-* **Count:** 36
+* **Last updated:** Dec 05 2024, 01:36 
+* **Count:** 37
 
 ## Add your dataset
 
