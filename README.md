@@ -42,11 +42,12 @@ This repository provides you with all information about existing fiboa datasets.
 | [Germany, Thuringia](https://source.coop/repositories/fiboa/de-th/description/) | dl-de/by-2-0 | Thüringer Landesamt für Landwirtschaft und Ländlichen Raum |
 | [Japan Fude Parcels](https://source.coop/repositories/fiboa/japan/description/) | CC-BY-4.0 | Fude Polygon Data (2021-2024). Japanese Ministry of Agriculture, Forestry and Fisheries. Processed by Pacific Spatial Solutions, Inc |
 | [Lacuna labels](https://source.coop/repositories/fiboa/lacunalabels/description/) | Participant license agreement for the NICFI contract |  |
+| [New Zealand National irrigated land](https://source.coop/repositories/fiboa/newzealand/description/) | CC-BY-4.0 | New Zealand Ministry for the Environment |
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Dec 13 2024, 01:37 
-* **Count:** 37
+* **Last updated:** Dec 14 2024, 01:25 
+* **Count:** 38
 
 ## Add your dataset
 
