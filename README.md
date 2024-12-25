@@ -13,7 +13,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Belgium Wallonia](https://source.coop/repositories/fiboa/be-wa/description/) | No conditions apply to access and use |  |
 | [Field boundaries for California Statewide Crop Mapping](https://source.coop/repositories/fiboa/us-ca-scm/description/) | CC-0 |  |
 | [Field boundaries for Cambodia and Vietnam (AI4SmallFarms)](https://source.coop/repositories/fiboa/ai4sf/description/) | CC-BY-4.0 |  |
-| [Field boundaries for Catalonia, Spain](https://source.coop/repositories/fiboa/es-cat/description/) | Open Information Use License - Catalonia |  |
+| [Field boundaries for Catalonia, Spain](https://source.coop/repositories/fiboa/es-cat/description/) | Open Information Use License - Catalonia | Catalonia Department of Agriculture, Livestock, Fisheries and Food |
 | [Field boundaries for Croatia](https://source.coop/repositories/fiboa/croatia/description/) | Publicly available data |  |
 | [Field boundaries for Czech](https://source.coop/repositories/fiboa/czech/description/) | CC-0 |  |
 | [Field boundaries for Estonia](https://source.coop/repositories/fiboa/estonia-ec/description/) | CC-BY-SA-3.0 | Põllumajanduse Registrite ja Informatsiooni Amet |
@@ -28,6 +28,10 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Slovakia](https://source.coop/repositories/fiboa/slovakia/description/) | Publicly available data |  |
 | [Field boundaries for Slovenia](https://source.coop/repositories/fiboa/slovenia/description/) | Publicly available data |  |
 | [Field boundaries for Slovenia from EuroCrops (2021)](https://source.coop/repositories/fiboa/slovenia-ec/description/) | CC-BY-SA-4.0 | Ministrstvo za kmetijstvo, gozdarstvo in prehrano |
+| [Field boundaries for Spain Andalucia](https://source.coop/repositories/fiboa/es-cl/description/) | CC-SA-BY-ND | ©Junta de Andalucía |
+| [Field boundaries for Spain Aragon](https://source.coop/repositories/fiboa/es-ar/description/) | CC-BY-4.0 | (c) Gobierno de Aragon |
+| [Field boundaries for Spain Basque Country](https://source.coop/repositories/fiboa/es-pv/description/) | CC-BY-4.0 | Basque Government / Gobierno Vasco |
+| [Field boundaries for Spain Castilla y León](https://source.coop/repositories/fiboa/es-cl/description/) | Non Commercial | Commercial exploitation is prohibited |
 | [Field boundaries for Sweden](https://source.coop/repositories/fiboa/sweden/description/) | CC0-1.0 | Jordbruksverket |
 | [Field boundaries for Switzerland](https://source.coop/repositories/fiboa/switzerland/description/) | Open BY |  |
 | [Field boundaries for The Netherlands](https://source.coop/repositories/fiboa/nl-ref/description/) | CC0-1.0 |  |
@@ -46,8 +50,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Dec 24 2024, 01:21 
-* **Count:** 38
+* **Last updated:** Dec 25 2024, 01:20 
+* **Count:** 42
 
 ## Add your dataset
 
