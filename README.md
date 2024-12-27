@@ -30,8 +30,10 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Slovenia from EuroCrops (2021)](https://source.coop/repositories/fiboa/slovenia-ec/description/) | CC-BY-SA-4.0 | Ministrstvo za kmetijstvo, gozdarstvo in prehrano |
 | [Field boundaries for Spain Andalucia](https://source.coop/repositories/fiboa/es-cl/description/) | CC-SA-BY-ND | ©Junta de Andalucía |
 | [Field boundaries for Spain Aragon](https://source.coop/repositories/fiboa/es-ar/description/) | CC-BY-4.0 | (c) Gobierno de Aragon |
+| [Field boundaries for Spain Balearic Islands](https://source.coop/repositories/fiboa/es-pm/description/) | CC-BY-4.0 | Govern de les Illes Balears |
 | [Field boundaries for Spain Basque Country](https://source.coop/repositories/fiboa/es-pv/description/) | CC-BY-4.0 | Basque Government / Gobierno Vasco |
 | [Field boundaries for Spain Castilla y León](https://source.coop/repositories/fiboa/es-cl/description/) | Non Commercial | Commercial exploitation is prohibited |
+| [Field boundaries for Spain Extremadura](https://source.coop/repositories/fiboa/es-ex/description/) | CC-BY-4.0 | Junta de Extremadura |
 | [Field boundaries for Sweden](https://source.coop/repositories/fiboa/sweden/description/) | CC0-1.0 | Jordbruksverket |
 | [Field boundaries for Switzerland](https://source.coop/repositories/fiboa/switzerland/description/) | Open BY |  |
 | [Field boundaries for The Netherlands](https://source.coop/repositories/fiboa/nl-ref/description/) | CC0-1.0 |  |
@@ -50,8 +52,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Dec 26 2024, 01:20 
-* **Count:** 42
+* **Last updated:** Dec 27 2024, 01:20 
+* **Count:** 44
 
 ## Add your dataset
 
