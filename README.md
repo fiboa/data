@@ -32,6 +32,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Spain Aragon](https://source.coop/repositories/fiboa/es-ar/description/) | CC-BY-4.0 | (c) Gobierno de Aragon |
 | [Field boundaries for Spain Balearic Islands](https://source.coop/repositories/fiboa/es-pm/description/) | CC-BY-4.0 | Govern de les Illes Balears |
 | [Field boundaries for Spain Basque Country](https://source.coop/repositories/fiboa/es-pv/description/) | CC-BY-4.0 | Basque Government / Gobierno Vasco |
+| [Field boundaries for Spain Canary Islands](https://source.coop/repositories/fiboa/es-cn/description/) | CC-BY-4.0 | Gobierno de Canarias |
 | [Field boundaries for Spain Castilla y León](https://source.coop/repositories/fiboa/es-cl/description/) | Non Commercial | Commercial exploitation is prohibited |
 | [Field boundaries for Spain Extremadura](https://source.coop/repositories/fiboa/es-ex/description/) | CC-BY-4.0 | Junta de Extremadura |
 | [Field boundaries for Sweden](https://source.coop/repositories/fiboa/sweden/description/) | CC0-1.0 | Jordbruksverket |
@@ -52,8 +53,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Dec 27 2024, 01:20 
-* **Count:** 44
+* **Last updated:** Dec 28 2024, 01:19 
+* **Count:** 45
 
 ## Add your dataset
 
