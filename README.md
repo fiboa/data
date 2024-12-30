@@ -33,8 +33,11 @@ This repository provides you with all information about existing fiboa datasets.
 | [Field boundaries for Spain Balearic Islands](https://source.coop/repositories/fiboa/es-pm/description/) | CC-BY-4.0 | Govern de les Illes Balears |
 | [Field boundaries for Spain Basque Country](https://source.coop/repositories/fiboa/es-pv/description/) | CC-BY-4.0 | Basque Government / Gobierno Vasco |
 | [Field boundaries for Spain Canary Islands](https://source.coop/repositories/fiboa/es-cn/description/) | CC-BY-4.0 | Gobierno de Canarias |
+| [Field boundaries for Spain Cantabria](https://source.coop/repositories/fiboa/es-cb/description/) | CC-BY-NC-4.0 | ©Government of Cantabria. Free information available at https://mapas.cantabria.es |
 | [Field boundaries for Spain Castilla y León](https://source.coop/repositories/fiboa/es-cl/description/) | Non Commercial | Commercial exploitation is prohibited |
 | [Field boundaries for Spain Extremadura](https://source.coop/repositories/fiboa/es-ex/description/) | CC-BY-4.0 | Junta de Extremadura |
+| [Field boundaries for Spain Galicia](https://source.coop/repositories/fiboa/es-ga/description/) | CC-BY-4.0 | Información procedente do FOGGA |
+| [Field boundaries for Spain Madrid](https://source.coop/repositories/fiboa/es-md/description/) | CC-0 | Comunidad de Madrid |
 | [Field boundaries for Spain Valencia](https://source.coop/repositories/fiboa/es-vc/description/) | CC-BY-4.0 | 1403_2024PAC0050 CC BY 4.0 © Institut Cartogràfic Valencià, Generalitat |
 | [Field boundaries for Sweden](https://source.coop/repositories/fiboa/sweden/description/) | CC0-1.0 | Jordbruksverket |
 | [Field boundaries for Switzerland](https://source.coop/repositories/fiboa/switzerland/description/) | Open BY |  |
@@ -54,8 +57,8 @@ This repository provides you with all information about existing fiboa datasets.
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Dec 29 2024, 01:34 
-* **Count:** 46
+* **Last updated:** Dec 30 2024, 01:23 
+* **Count:** 49
 
 ## Add your dataset
 
