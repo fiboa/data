@@ -59,7 +59,7 @@ This repository provides you with all information about existing fiboa datasets.
 | [UKFields](https://zenodo.org/records/11110206) | CC-BY-4.0 | Bancroft S, Wilkins J |
 | [USDA Crop Sequence Boundaries](https://source.coop/repositories/fiboa/us-usda-cropland/description/) | Freely available at https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries |  |
 
-* **Last updated:** Jan 11 2025, 01:21 
+* **Last updated:** Jan 12 2025, 01:35 
 * **Count:** 51
 
 ## Add your dataset
